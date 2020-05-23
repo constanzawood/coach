@@ -6119,6 +6119,9 @@ button.bg-secondary:focus {
   background-color: #F2FDFF !important;
 }
 
+.bg-quaternary {
+  background-color: #9AD4D6 !important;
+}
 
 .bg-success {
   background-color: #28a745 !important;
